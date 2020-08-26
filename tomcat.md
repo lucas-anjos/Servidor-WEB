@@ -13,5 +13,5 @@ https://www.youtube.com/watch?v=fqR5SymRgLQ&list=PLbEOwbQR9lqyGUhHQHEBXxeBbE1jq8
 ![app1](https://github.com/lucas-anjos/Servidor-WEB/blob/master/imagens/print_apt1.jpeg)
 ![app2](https://github.com/lucas-anjos/Servidor-WEB/blob/master/imagens/print_apt2.jpeg)
 ## Print do Workbench acessando o Servidor Tomcat:
-![sql e tomcat](https://github.com/lucas-anjos/Servidor-WEB/blob/master/imagens/print_apt2.jpeg)
+![sql e tomcat](https://github.com/lucas-anjos/Servidor-WEB/blob/master/imagens/workbench.png)
 
